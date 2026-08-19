@@ -1,6 +1,7 @@
-baseURL: "www.dougeacho.github.io"
-title: Moritz-Maria von Igelfeld
-theme: PaperMod
+baseURL = "www.dougeacho.github.io"
+languageCode = "en-us"
+title = "Douglas Eacho"
+theme = "PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -29,10 +30,10 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Douglas Eacho's research papers, bio, blog, curriculum vitae, and contact information."
+    author: Douglas Eacho
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "August 2026"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
