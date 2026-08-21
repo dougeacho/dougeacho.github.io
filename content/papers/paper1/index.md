@@ -1,17 +1,12 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
-cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
-    relative: true
+title: "Immediacy and Exchange: The Market Theory of Performance" 
+date: 2024
+tags: ["performance theory","mediation","value theory"]
+author: ["Douglas Eacho"]
+description: "This paper examines and critiques prominent theories of media and mediation in performance theory." 
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "Journal of Dramatic Theory and Criticism"
 
 ---
 
@@ -27,30 +22,27 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+his article examines theories of media and mediation proposed by Erika Fischer-Lichte, José Esteban Muñoz, and Rebecca Schneider. It argues that these otherwise distinct theorists share a model of performance as an exceptional site that abolishes media and preserves exchanges of equivalents. In so doing they take part in what Anna Kornbluh has theorized as a general cultural logic of “immediacy.” Performance’s purported immediacy is then discussed as imagining a utopian market. Such a utopia merely reflects the concepts emergent from commodity exchange. This article thus advances an ideology critique of a significant tendency within performance theory.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
-
+####
 ![](paper1.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
+Eacho, Douglas. "Immediacy and Exchange: The Market Theory of Performance." Journal of Dramatic Theory and Criticism, 39.1, 2024, pp. 9-27
 ```latex
 @article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
+author = {Douglas Eacho},
+year = {2024},
+title ={Immediacy and Exchange: The Market Theory of Performance},
+journal = {Journal of Dramatic Theory and Criticism},
+volume = {39},
 number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+pages = {9-27},
 ```
 
 ---
